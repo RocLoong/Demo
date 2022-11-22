@@ -1,1 +1,1 @@
-# Example for code
+# Example for coding
